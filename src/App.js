@@ -12,7 +12,7 @@ function App() {
       <Router>
         <Navbar />
         <Routes>
-          <Route path="/" element={<Home />} />
+          <Route path="/" element={<Home />} />   
           <Route path="/menu" element={<Menu />} />
         </Routes>
         <Footer />
@@ -24,3 +24,5 @@ function App() {
 }
 
 export default App;
+
+// for each page we need to create new routess
