@@ -1,2 +1,2 @@
-# Changing background of google
+# Changing background of chrome
 
